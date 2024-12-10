@@ -1,0 +1,45 @@
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: #edd5e5;
+    width: 150px;
+    height: 200px;
+    border: 15px solid lightpink;
+    padding: 10px;
+    margin: 20px;
+  }
+  .acertou {
+    text-align: center;
+    color: lightpink;
+    background-color: #46c7a2;
+    width: 150px;
+    height: 200px;
+    border: 15px solid lightpink;
+    padding: 10px;
+    margin: 20px;
+  }
+  .errou {
+    text-align: center;
+    color: white;
+    background-color: #ff005d;
+    width: 150px;
+    height: 200px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+  }
+
+  body{background-color: #edd5e5;
+    text-align: center;
+
+  }
+  button{
+    background-color: lightpink;
+  }
+
